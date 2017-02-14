@@ -40,7 +40,7 @@ Another potential analysis is the identification of underlying regulatory networ
 | [HMT](https://github.com/cyversewarwick/hmt) | A transcription factor binding site overrepresentation analysis algorithm for known motifs | [DE](https://de.cyverse.org/de/?type=apps&app-id=818d8ce0-5e4c-11e6-ac0d-0242ac120003) |
 | [MEME-LaB](https://github.com/cyversewarwick/meme_lab) | A transcription factor binding site overrepresentation analysis algorithm with novel motif discovery | [DE](https://de.cyverse.org/de/?type=apps&app-id=b781fc48-8edd-11e6-b4ab-0242ac120003) |
 
-Tip: The quickest way to locate our applications on the [CyVerse Discovery Environment](https://de.cyverse.org/) is to type "uk cyverse" in the applicatio search box. An account for CyVerse is required. Register [here](https://user.cyverse.org/) if you have not.
+[*Tip*]: The quickest way to locate our applications on the [CyVerse Discovery Environment](https://de.cyverse.org/) is to type "**uk cyverse**" in the applicatio search box. An account for CyVerse is required. Register [here](https://user.cyverse.org/) if you have not.
 
 Below is a screenshot showing the search result of our apps:
 ![Search for CyVerse UK apps](https://cyversewarwick.github.io/images/Search_Apps.png)
