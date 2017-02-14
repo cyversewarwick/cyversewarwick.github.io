@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Expression Data Analysis Pipeline"
+date: 2016-12-13
+---
+
 # Time Course Expression Data Pipeline Tutorial
 
 ## The Purpose of the Tutorial
