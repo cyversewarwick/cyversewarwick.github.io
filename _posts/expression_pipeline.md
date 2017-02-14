@@ -1,5 +1,7 @@
 ---
-title: Expression Data Analysis Pipeline
+layout: post
+title: "Expression Data Analysis Pipeline"
+date: 2017-2-14
 ---
 
 ## Expression Data Analysis Pipeline
