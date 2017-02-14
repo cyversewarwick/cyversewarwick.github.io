@@ -33,3 +33,5 @@ A full list of applications developed by the Warwick team is given in the table:
 | [MEME-LaB](https://github.com/cyversewarwick/meme_lab) | A transcription factor binding site overrepresentation analysis algorithm with novel motif discovery | [DE](https://de.cyverse.org/de/?type=apps&app-id=b781fc48-8edd-11e6-b4ab-0242ac120003) |
 
 \* - A CyVerse account is required. Register [here](https://user.cyverse.org/) if necessary.
+
+These applications are also accessible through our [local Discovery Environment](https://cyverse.warwick.ac.uk/de)
