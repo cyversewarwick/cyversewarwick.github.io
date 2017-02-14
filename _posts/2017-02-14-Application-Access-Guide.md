@@ -6,7 +6,7 @@ date: 2017-02-14
 
 # Application Access Guide
 
-All of our applications on the [CyVerse Discovery Environment](https://de.cyverse.org/) is searchable using the "**uk cyverse**" keyword in the application search box.
+All of our applications on the [CyVerse Discovery Environment](https://de.cyverse.org/) are searchable using the "**uk cyverse**" keyword in the application search box.
 
 Below is a screenshot showing the search in action:
 ![Search for CyVerse UK apps](https://cyversewarwick.github.io/images/Search_Apps.png)
