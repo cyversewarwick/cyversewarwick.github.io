@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CyVerse UK Workshop 2017"
+title: "Workshop: CyVerse UK Workshop 2017"
 date: 2017-2-03
 ---
 
