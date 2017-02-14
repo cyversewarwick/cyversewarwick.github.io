@@ -4,7 +4,7 @@ title: Expression Data Analysis Pipeline
 
 ## Expression Data Analysis Pipeline
 
-![Expression Data Analysis Pipeline]https://cyversewarwick.github.io/images/Expression_Data_Analysis_Pipeline.png)
+![Expression Data Analysis Pipeline](https://cyversewarwick.github.io/images/Expression_Data_Analysis_Pipeline.png)
 
 Performing an analysis of large-scale expression data can be a daunting task, as any relevant information on the effects of the monitored treatment are diluted by tens of thousands of profiles that are left unaffected by the condition change. The Warwick team of CyVerse UK set out to create a number of apps that can get you from normalised expression time course data to concise biological hypotheses on regulatory functionality. It should be noted that these tools were created with array data in mind, but you are welcome to use count data as well. If this is the case, remember to log-transform your data before feeding it into the apps.
 
