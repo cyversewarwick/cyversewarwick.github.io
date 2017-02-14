@@ -17,6 +17,9 @@ A full list of applications developed by the Warwick team is given in the table:
 | --- | :---: | --- |
 |  | *Sequence Alignment* |  |
 | [APPLES](https://github.com/cyversewarwick/apples) | A set of tools to analyse promoter sequences on a genome-wide scale| [DE](https://de.cyverse.org/de/?type=apps&app-id=d99ca952-dbe2-11e6-9e37-0242ac120003) |
+|  | *Footprint Identification* |  |
+| [Wellington Bootstrap](https://github.com/cyversewarwick/wellington-bootstrap) | An algorithm for the identification of regions occupied by proteins in DNase-seq data, performing a differential analysis between two samples | [DE](https://de.cyverse.org/de/?type=apps&app-id=cbf83e84-1cf1-11e6-b710-0242ac120003) |
+| [Wellington Footprint](https://github.com/cyversewarwick/wellington-footprint) | An algorithm for the identification of regions occupied by proteins in DNase-seq data | [DE](https://de.cyverse.org/de/?type=apps&app-id=035655fc-2736-11e6-ac3b-0242ac120003) |
 |  | *Differencial Expression* |  |
 | [GP2S](https://github.com/cyversewarwick/gp2s) | A differential expression algorithm for time series data with a two condition (eg. control/treated) experimental design | [DE](https://de.cyverse.org/de/?type=apps&app-id=655a8432-7432-11e6-a6f8-0242ac120003) |
 | [Gradient Tool](https://github.com/cyversewarwick/gradienttool) | An algorithm for the identification of the time of change from single condition time course expression data | [DE](https://de.cyverse.org/de/?type=apps&app-id=11d9f454-78d4-11e6-9314-0242ac120003) |
@@ -31,6 +34,8 @@ A full list of applications developed by the Warwick team is given in the table:
 |  | *Transcription Factor Motif Enrichment* |  |
 | [HMT](https://github.com/cyversewarwick/hmt) | A transcription factor binding site overrepresentation analysis algorithm for known motifs | [DE](https://de.cyverse.org/de/?type=apps&app-id=818d8ce0-5e4c-11e6-ac0d-0242ac120003) |
 | [MEME-LaB](https://github.com/cyversewarwick/meme_lab) | A transcription factor binding site overrepresentation analysis algorithm with novel motif discovery | [DE](https://de.cyverse.org/de/?type=apps&app-id=b781fc48-8edd-11e6-b4ab-0242ac120003) |
+
+
 
 \* - A CyVerse account is required. Register [here](https://user.cyverse.org/) if necessary.
 
