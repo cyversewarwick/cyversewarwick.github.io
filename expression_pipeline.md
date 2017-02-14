@@ -2,7 +2,7 @@
 title: Expression Data Analysis Pipeline
 ---
 
-##Expression Data Analysis Pipeline
+## Expression Data Analysis Pipeline
 
 ![Expression Data Analysis Pipeline](http://cyverseuk.org/wp-content/uploads/2016/07/Expression_Data_Analysis_Pipeline.png)
 
