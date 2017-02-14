@@ -18,3 +18,8 @@ Gene groups obtained from the above methods can then be mined for relevant biolo
 
 
 Another potential analysis is the identification of underlying regulatory networks. Such models, inferred based on transcription factor expression levels, show the signalling chains of transcription factors, helping put the observed downstream co-regulatory events captured by clusters/biclusters into context. [CSI](http://cyverseuk.org/applications/causal-structure-inference-csi/) proposes a model based on how good a job upstream transcription factors' expression profiles do of explaining the downstream transcription factors' expression profiles at a later time point, and the resulting model can be turned into a [Cytoscape](http://www.cytoscape.org/)-friendly network by applying a stringency threshold on the confidence in each edge. Extensions of the algorithm exist - [hCSI](http://cyverseuk.org/applications/hierarchical-causal-structure-inference-hcsi/) can infer related networks across multiple datasets, while [oCSI](http://cyverseuk.org/applications/orthologous-causal-structure-identification-ocsi/) can worth with data captured from different species.
+
+| Application | Description | Run on CyVerse |
+| --- | --- | --- |
+| GP2S | A differential expression algorithm for time series data with a two condition (eg. control/treated) experimental design | [DE](https://de.cyverse.org/de/?type=apps&app-id=655a8432-7432-11e6-a6f8-0242ac120003) |
+| Gradient Tool | An algorithm for the identification of the time of change from single condition time course expression data | [DE](https://de.cyverse.org/de/?type=apps&app-id=11d9f454-78d4-11e6-9314-0242ac120003) |
