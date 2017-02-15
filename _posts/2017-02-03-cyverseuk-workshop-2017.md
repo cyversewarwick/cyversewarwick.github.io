@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Workshop: CyVerse UK Workshop 2017"
+title: "CyVerse UK Workshop: Bioinformatic Tools for Biologists"
 date: 2017-2-03
 ---
 
-# CyVerse UK Workshop: Bioinformatic Tools for Biologists
-
-![Expression Data Analysis Pipeline](https://cyversewarwick.github.io/images/Workshop_2017.png)
+![CyVerse UK Workshop 2017](https://cyversewarwick.github.io/images/Workshop_2017.png)
 
 
 This meeting is focused on researchers who are either toward the beginning of their studies or have moved onto a new subject area. We will provide a hands-on sessions that will describe the use of software tools that can interrogate RNAseq, imaging, gene expression or GWAS data. Previous CyVerse users will provide real-life examples of how the software has been successfully used. This is the **Learner Track**
