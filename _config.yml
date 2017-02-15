@@ -5,4 +5,7 @@ author:
   name:   CyVerse UK Team at Warwick
   url:    mailto:info@cyverse.warwick.ac.uk
 
+gems:
+  - jekyll-sitemap
+
 theme:    jekyll-theme-cayman
