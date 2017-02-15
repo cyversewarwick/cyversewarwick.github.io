@@ -4,6 +4,8 @@ title: "Expression Data Analysis Pipeline [Tutorial]"
 date: 2016-12-13
 ---
 
+![Expression Data Analysis Pipeline](https://cyversewarwick.github.io/images/Expression_Data_Analysis_Pipeline.png)
+
 ## The Purpose of the Tutorial
 
 This page will offer a step by step guide of a basic analysis of time course expression data using tools available within CyVerse, plus two brief sessions in Cytoscape. Similar steps can be taken to obtain a solid analysis skeleton for any time course expression data, with the obtained results serving as a good foundation for further data mining to draw appropriate biological conclusions.
