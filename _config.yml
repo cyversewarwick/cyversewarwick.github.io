@@ -7,5 +7,6 @@ author:
 
 gems:
   - jekyll-sitemap
+  - jemoji
 
 theme:    jekyll-theme-cayman
