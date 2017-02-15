@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tutorial: Expression Data Analysis Pipeline"
+title: "Expression Data Analysis Pipeline [Tutorial]"
 date: 2016-12-13
 ---
 
