@@ -4,6 +4,13 @@ title: "Application Access Guide"
 date: 2017-02-14
 ---
 
+There are 3 options when it comes to using our applications:
+1. Via the CyVerse Discovery Environment. This is the recommended approach to a new user. This is the easiest option since a full user interface is provided to the user.
+2. Using the Docker images that are available on our [Docker Hub repository](https://hub.docker.com/u/cyversewarwick/). Each application/tool has a corresponding image.
+3. With the source codes that are hosted on our [Github repository](https://github.com/cyversewarwick)
+
+# CyVerse Discovery Environment
+
 All of our applications on the [CyVerse Discovery Environment](https://de.cyverse.org/) are searchable using the "**uk cyverse**" keyword in the application search box.
 
 Below is a screenshot showing the search in action:
