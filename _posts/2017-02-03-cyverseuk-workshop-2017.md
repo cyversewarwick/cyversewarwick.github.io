@@ -73,6 +73,7 @@ This workshop is organised by GARNet with Professor Katherine Denby at the Unive
 **4.30pm**:	Meeting End
 
 ## Other Information
+
 #### Accommodation
 There is accomodation available on a first come-first serve basis at the University of York bed & breakfast facility, Franklin House.
 - This is bookable online through the URL [www.yorkconferences.com](www.yorkconferences.com)
