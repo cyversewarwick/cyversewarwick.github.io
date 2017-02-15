@@ -4,6 +4,10 @@ title: "Expression Data Analysis Pipeline [Tutorial]"
 date: 2016-12-13
 ---
 
+* TOC
+{:toc}
+
+
 ![Expression Data Analysis Pipeline](https://cyversewarwick.github.io/images/Expression_Data_Analysis_Pipeline.png)
 
 ## The Purpose of the Tutorial
