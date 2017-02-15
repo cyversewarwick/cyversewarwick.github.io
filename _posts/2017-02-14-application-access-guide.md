@@ -12,7 +12,7 @@ There are 3 options when it comes to using our applications:
 
 We give details on the first option and interested users may try the other two options with reference to the documentations we have for each application.
 
-# CyVerse Discovery Environment
+## CyVerse Discovery Environment
 
 All of our applications on the [CyVerse Discovery Environment](https://de.cyverse.org/) are searchable using the "**uk cyverse**" keyword in the application search box.
 
