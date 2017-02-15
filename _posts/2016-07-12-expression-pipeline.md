@@ -4,8 +4,6 @@ title: "Expression Data Analysis Pipeline"
 date: 2016-07-12
 ---
 
-## Expression Data Analysis Pipeline
-
 *Updated on 14 Feb. 2017*
 
 ![Expression Data Analysis Pipeline](https://cyversewarwick.github.io/images/Expression_Data_Analysis_Pipeline.png)
