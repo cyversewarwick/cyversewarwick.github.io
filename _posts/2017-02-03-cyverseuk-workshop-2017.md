@@ -16,9 +16,13 @@ This workshop is organised by GARNet with Professor Katherine Denby at the Unive
 
 ## Day 1: Monday March 20th
 **10.30am**: Registration Opens
+
 **11.30am**: Introduction to CyVerse and CyVerseUK
+
 **1.00pm**: Lunch
-**2.00pm**: Data Sharing, Management and Reuse	
+
+**2.00pm**: Data Sharing, Management and Reuse
+
 **3.30pm**: Break
 
 ##### Learner Track
@@ -30,6 +34,7 @@ This workshop is organised by GARNet with Professor Katherine Denby at the Unive
 **4.00pm**: Working with Docker
 
 **6.00pm**: Session End
+
 **7.00pm**: Workshop Dinner at Walmgate Ale House
 
 ## Day 2: Tuesday March 21st
@@ -40,7 +45,9 @@ This workshop is organised by GARNet with Professor Katherine Denby at the Unive
 - Image-Based Phenotyping
 - Introducing RootNav and RooTrace
 - Successful Use Example
+
 **11.00am**: Break
+
 **11.30am**: CyVerseUK Tools: University of Warwick: Transcriptomic Data Mining
 - Descriptive hands-on Workshop
 - User example
@@ -50,7 +57,9 @@ This workshop is organised by GARNet with Professor Katherine Denby at the Unive
 - What Agave is
 - What Agave isn’t
 - How you can use it to empower your code with CyVerse hardware
+
 **11.00am**: Break
+
 **11.30am**: Working with the Agave API
 - “Bring your own scripts”
 - BASH/shell scripting on basic VM hardware
@@ -69,7 +78,8 @@ This workshop is organised by GARNet with Professor Katherine Denby at the Unive
 - Building user interfaces
 
 ##### Whole Group Finale
-**4.00pm**:	The Future of CyVerse and CyVerseUK:
+**4.00pm**:	The Future of CyVerse and CyVerseUK
+
 **4.30pm**:	Meeting End
 
 ## Other Information
